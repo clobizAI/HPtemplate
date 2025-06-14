@@ -1,0 +1,122 @@
+{
+  "siteTitle": "兵庫県香港経済交流事務所",
+  "about": "事務所概要",
+  "hyogo": "兵庫県概要",
+  "discover": "魅力発見",
+  "links": "リンク",
+  "blog": "ブログ",
+  "contact": "お問い合わせ",
+  "officeOverview": "事務所概要",
+  "address": "所在地",
+  "contactInfo": "連絡先",
+  "business": "業務内容",
+  "access": "アクセス",
+  "mainAttractions": "魅力発見",
+  "eventCalendar": "主なイベント（1月〜12月）",
+  "more": "もっと見る",
+  "noArticles": "記事がありません",
+  "latestNews": "最新のお知らせ・更新情報",
+  "officeName": "兵庫県香港経済交流事務所",
+  "officeAddress": "Unit 506, 5/F, Tower 2, Lippo Centre, 89 Queensway, Admiralty, Hong Kong",
+  "officeTel": "Tel: +852-2110-4570",
+  "linksTitle": "リンク",
+  "languageTitle": "言語",
+  "copyright": "Copyright © Hyogo Business & Tourism Centre (HK). All Rights Reserved.",
+  "discoverDescription": "兵庫県の魅力ある観光スポットをご紹介します",
+  "contactDescription": "兵庫県香港経済交流事務所へのお問い合わせはこちら",
+  "featuredPlaces": {
+    "kobe": {
+      "title": "神戸",
+      "description": "美しい港町と異国情緒あふれる街並み"
+    },
+    "himeji": {
+      "title": "姫路城",
+      "description": "世界文化遺産に登録された白鷺城"
+    },
+    "takeda": {
+      "title": "竹田城跡",
+      "description": "天空の城として知られる雲海の絶景"
+    },
+    "byakugouji": {
+      "title": "白毫寺の九尺ふじ",
+      "description": "春を彩る美しい藤の花"
+    },
+    "awaji": {
+      "title": "淡路島の渦潮",
+      "description": "自然が作り出す壮大な渦潮"
+    },
+    "sonbun": {
+      "title": "孫文記念館",
+      "description": "歴史を感じる貴重な文化遺産"
+    }
+  },
+  "discoverTitle": "兵庫県の魅力発見",
+  "discoverTable": {
+    "worldHeritage": "世界遺産",
+    "worldHeritageValue": "姫路城（白鷺城）",
+    "onsen": "温泉地",
+    "onsenValue": "有馬温泉、城崎温泉、湯村温泉 など",
+    "nature": "自然景観",
+    "natureValue": "淡路島の渦潮、竹田城跡の雲海、六甲山系 など",
+    "culture": "伝統文化",
+    "cultureValue": "丹波焼、播州織、灘の酒造り など",
+    "gourmet": "グルメ",
+    "gourmetValue": "神戸牛、明石焼、但馬牛、淡路玉ねぎ など",
+    "cities": "観光都市",
+    "citiesValue": "神戸、姫路、淡路島、城崎、丹波篠山 など",
+    "events": "イベント",
+    "eventsValue": "神戸ルミナリエ、姫路お城まつり、淡路花博 など"
+  },
+  "discoverImageAlt": "兵庫県の魅力イメージ",
+  "discoverEventsTitle": "兵庫県の主なイベント（1月〜12月）",
+  "discoverEvents": {
+    "jan": { "month": "1月", "title": "西宮神社「福男選び」", "desc": "商売繁盛の神様「えべっさん」の総本社。1月10日の「開門神事 福男選び」では午前6時に赤門が開放され、230m離れた本殿へ「走り参り」。1番から3番がその年の「福男」に。", "link": "西宮市役所Facebook" },
+    "feb": { "month": "2月", "title": "但馬牧場公園 雪まつり", "desc": "兵庫県北部は冬になると雪が積もり、スキーやスノーボードが楽しめます。雪玉ストラックアウトなど子供も楽しめるイベントがたくさん。", "link": "但馬牧場公園HP" },
+    "mar": { "month": "3月", "title": "あわじ花さじき 菜の花まつり", "desc": "3月中旬〜4月中旬に「菜の花まつり」。約100万本の菜の花が咲き、青い空・海とのコントラストが美しい。", "link": "あわじ花さじきHP" },
+    "apr": { "month": "4月", "title": "姫路城の桜", "desc": "「日本さくら名所100選」姫路城周辺には約1,000本の桜。4月上旬はお城が満開の桜に包まれます。", "link": "ひょうご観光本部" },
+    "may": { "month": "5月", "title": "白毫寺 九尺ふじ", "desc": "丹波市の白毫寺では九尺ふじが巨大な紫のベールとなって見頃。夜はライトアップも。", "link": "ひょうご観光本部" },
+    "jun": { "month": "6月", "title": "姫路ゆかたまつり", "desc": "姫路城の守護神「長壁神社」の例祭。子どもゆかたパレードやファッションショーなど多彩な催し。", "link": "ひょうご観光本部" },
+    "jul": { "month": "7月", "title": "佐用町 ひまわり祭り", "desc": "佐用町で「ひまわり祭り」。時期をずらして合計約100万本のひまわりが咲き誇ります。", "link": "神戸観光壁紙写真集" },
+    "aug": { "month": "8月", "title": "デカンショ祭り", "desc": "丹波篠山で「デカンショ祭り」。歌と踊りで真夏の夜は大いに盛り上がります。", "link": "ひょうご観光本部" },
+    "sep": { "month": "9月", "title": "淡路島ロングライド150", "desc": "淡路島を一周する自転車イベント「アワイチ」。美しい風景とグルメも楽しめます。", "link": "淡路島観光協会" },
+    "oct": { "month": "10月", "title": "灘のけんか祭り", "desc": "姫路で「灘のけんか祭り」。神輿が激しくぶつかり合い、豪華な屋台の練り合わせも見どころ。", "link": "ひょうご観光本部" },
+    "nov": { "month": "11月", "title": "神戸マラソン", "desc": "神戸は日本で最初にマラソン大会が開催された場所。11月には約2万人が参加する「神戸マラソン」が開催。", "link": "神戸マラソンFacebook" },
+    "dec": { "month": "12月", "title": "神戸イルミナージュ", "desc": "関西屈指のLEDイルミネーション「神戸イルミナージュ」。毎年異なるテーマで公園全体が輝きます。", "link": "ひょうご観光本部" }
+  },
+  "hyogoTitle": "兵庫県概要",
+  "hyogoTable": {
+    "established": "設立",
+    "establishedValue": "1868年",
+    "population": "人口",
+    "populationValue": "535万4,742人（2024年3月推計）",
+    "area": "面積",
+    "areaValue": "8,400.94km²（2024年3月現在）",
+    "gdp": "名目GDP",
+    "gdpValue": "24兆664億円（2023年度）",
+    "cities": "県内市町数",
+    "citiesValue": "29市12町",
+    "flower": "県の花",
+    "flowerValue": "のじぎく",
+    "tree": "県の木",
+    "treeValue": "クスノキ",
+    "bird": "県の鳥",
+    "birdValue": "コウノトリ"
+  },
+  "hyogoMapAlt": "兵庫県地図",
+  "aboutTitle": "事務所概要",
+  "aboutOfficeName": "兵庫県香港経済交流事務所",
+  "aboutOfficeNameEn": "Hyogo Business & Tourism Centre (HK)",
+  "aboutAddress": "所在地",
+  "aboutAddressValue": "Unit 506, 5/F, Tower 2, Lippo Centre, 89 Queensway, Admiralty, Hong Kong",
+  "aboutContact": "連絡先",
+  "aboutContactValue": "Tel：+852-2110-4570\nFax：+852-2110-4571",
+  "aboutBusiness": "業務内容",
+  "aboutBusinessList": {
+    "item1": "兵庫県の企業・団体の活動支援",
+    "item2": "兵庫県への外国人旅行者増加に向けた観光PR",
+    "item3": "友好都市との交流推進"
+  },
+  "aboutAccess": "アクセス",
+  "aboutAccessValue": "MTR「金鐘（Admiralty）駅」下車。B出口に向かって徒歩５分。Lippoセンタービル タワー２の５階。",
+  "aboutAccessMap": "Googleマップで見る"
+} 

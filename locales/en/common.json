@@ -1,0 +1,122 @@
+{
+  "siteTitle": "Hyogo Business & Tourism Centre (HK)",
+  "about": "About Us",
+  "hyogo": "About Hyogo",
+  "discover": "Discover",
+  "links": "Links",
+  "blog": "Blog",
+  "contact": "Contact",
+  "officeOverview": "Office Overview",
+  "address": "Address",
+  "contactInfo": "Contact Information",
+  "business": "Business",
+  "access": "Access",
+  "mainAttractions": "Discover",
+  "eventCalendar": "Major Events (January-December)",
+  "more": "Read More",
+  "noArticles": "No articles found",
+  "latestNews": "Latest News & Updates",
+  "officeName": "Hyogo Business & Tourism Centre (HK)",
+  "officeAddress": "Unit 506, 5/F, Tower 2, Lippo Centre, 89 Queensway, Admiralty, Hong Kong",
+  "officeTel": "Tel: +852-2110-4570",
+  "linksTitle": "Links",
+  "languageTitle": "Language",
+  "copyright": "Copyright © Hyogo Business & Tourism Centre (HK). All Rights Reserved.",
+  "discoverDescription": "Discover the fascinating tourist spots in Hyogo Prefecture",
+  "contactDescription": "Contact the Hyogo Business & Tourism Centre (HK)",
+  "featuredPlaces": {
+    "kobe": {
+      "title": "Kobe",
+      "description": "Beautiful port city with exotic atmosphere"
+    },
+    "himeji": {
+      "title": "Himeji Castle",
+      "description": "World Heritage Site known as the White Heron Castle"
+    },
+    "takeda": {
+      "title": "Takeda Castle Ruins",
+      "description": "Known as the Castle in the Sky with spectacular sea of clouds"
+    },
+    "byakugouji": {
+      "title": "Byakugouji Temple's Wisteria",
+      "description": "Beautiful wisteria flowers in spring"
+    },
+    "awaji": {
+      "title": "Awaji Island Whirlpools",
+      "description": "Magnificent whirlpools created by nature"
+    },
+    "sonbun": {
+      "title": "Sun Yat-sen Memorial Hall",
+      "description": "Precious cultural heritage with historical significance"
+    }
+  },
+  "discoverTitle": "Discover the Charms of Hyogo Prefecture",
+  "discoverTable": {
+    "worldHeritage": "World Heritage",
+    "worldHeritageValue": "Himeji Castle (White Heron Castle)",
+    "onsen": "Hot Springs",
+    "onsenValue": "Arima, Kinosaki, Yumura, etc.",
+    "nature": "Natural Scenery",
+    "natureValue": "Awaji Island Whirlpools, Takeda Castle Ruins Sea of Clouds, Mt. Rokko Range, etc.",
+    "culture": "Traditional Culture",
+    "cultureValue": "Tanba Pottery, Banshu Weaving, Nada Sake Brewing, etc.",
+    "gourmet": "Gourmet",
+    "gourmetValue": "Kobe Beef, Akashiyaki, Tajima Beef, Awaji Onion, etc.",
+    "cities": "Tourist Cities",
+    "citiesValue": "Kobe, Himeji, Awaji Island, Kinosaki, Tamba Sasayama, etc.",
+    "events": "Events",
+    "eventsValue": "Kobe Luminarie, Himeji Castle Festival, Awaji Flower Expo, etc."
+  },
+  "discoverImageAlt": "Image of Hyogo's Charms",
+  "discoverEventsTitle": "Major Events in Hyogo (Jan–Dec)",
+  "discoverEvents": {
+    "jan": { "month": "Jan", "title": "Nishinomiya Shrine 'Lucky Man Race'", "desc": "The head shrine of Ebessan, the god of prosperous business. On January 10, the 'Lucky Man Race' is held at 6 a.m. when the red gate opens and participants dash 230m to the main hall. The top three become that year's 'Lucky Men'.", "link": "Nishinomiya City Facebook" },
+    "feb": { "month": "Feb", "title": "Tajima Pasture Park Snow Festival", "desc": "Northern Hyogo is covered in snow in winter, perfect for skiing and snowboarding. Many events for children, such as snowball target games.", "link": "Tajima Pasture Park HP" },
+    "mar": { "month": "Mar", "title": "Awaji Hanasajiki Canola Flower Festival", "desc": "From mid-March to mid-April, about 1 million canola flowers bloom, creating a beautiful contrast with the blue sky and sea.", "link": "Awaji Hanasajiki HP" },
+    "apr": { "month": "Apr", "title": "Himeji Castle Cherry Blossoms", "desc": "About 1,000 cherry trees surround Himeji Castle, one of Japan's Top 100 Cherry Blossom Spots. In early April, the castle is enveloped in full bloom.", "link": "Hyogo Tourism Bureau" },
+    "may": { "month": "May", "title": "Byakugouji Temple Wisteria", "desc": "At Byakugouji Temple in Tamba, giant wisteria curtains are at their best. Illuminated at night.", "link": "Hyogo Tourism Bureau" },
+    "jun": { "month": "Jun", "title": "Himeji Yukata Festival", "desc": "Annual festival of Nagakabe Shrine, guardian of Himeji Castle. Includes children's yukata parade and fashion show.", "link": "Hyogo Tourism Bureau" },
+    "jul": { "month": "Jul", "title": "Sayo Sunflower Festival", "desc": "About 1 million sunflowers bloom in Sayo Town, with staggered blooming periods.", "link": "Kobe Tourism Wallpaper Collection" },
+    "aug": { "month": "Aug", "title": "Dekansho Festival", "desc": "Dekansho Festival in Tamba Sasayama. Lively summer night with songs and dances.", "link": "Hyogo Tourism Bureau" },
+    "sep": { "month": "Sep", "title": "Awaji Island Long Ride 150", "desc": "A cycling event around Awaji Island ('Awaichi'). Enjoy beautiful scenery and gourmet food.", "link": "Awaji Island Tourism Association" },
+    "oct": { "month": "Oct", "title": "Nada Kenka Festival", "desc": "Nada Kenka Festival in Himeji. Mikoshi (portable shrines) clash violently, and the parade of gorgeous floats is a highlight.", "link": "Hyogo Tourism Bureau" },
+    "nov": { "month": "Nov", "title": "Kobe Marathon", "desc": "Kobe is the birthplace of marathons in Japan. In November, about 20,000 people participate in the Kobe Marathon.", "link": "Kobe Marathon Facebook" },
+    "dec": { "month": "Dec", "title": "Kobe Illuminage", "desc": "One of Kansai's top LED illumination events. The entire park shines with a different theme each year.", "link": "Hyogo Tourism Bureau" }
+  },
+  "hyogoTitle": "About Hyogo Prefecture",
+  "hyogoTable": {
+    "established": "Established",
+    "establishedValue": "1868",
+    "population": "Population",
+    "populationValue": "5,354,742 (as of March 2024 estimate)",
+    "area": "Area",
+    "areaValue": "8,400.94 km² (as of March 2024)",
+    "gdp": "Nominal GDP",
+    "gdpValue": "24 trillion 664 billion yen (FY2023)",
+    "cities": "Number of Cities/Towns",
+    "citiesValue": "29 cities, 12 towns",
+    "flower": "Prefectural Flower",
+    "flowerValue": "Nojigiku (Chrysanthemum japonense)",
+    "tree": "Prefectural Tree",
+    "treeValue": "Camphor tree (Cinnamomum camphora)",
+    "bird": "Prefectural Bird",
+    "birdValue": "Oriental stork (Ciconia boyciana)"
+  },
+  "hyogoMapAlt": "Map of Hyogo Prefecture",
+  "aboutTitle": "Office Overview",
+  "aboutOfficeName": "Hyogo Business & Tourism Centre (HK)",
+  "aboutOfficeNameEn": "Hyogo Business & Tourism Centre (HK)",
+  "aboutAddress": "Address",
+  "aboutAddressValue": "Unit 506, 5/F, Tower 2, Lippo Centre, 89 Queensway, Admiralty, Hong Kong",
+  "aboutContact": "Contact",
+  "aboutContactValue": "Tel: +852-2110-4570\nFax: +852-2110-4571",
+  "aboutBusiness": "Business Activities",
+  "aboutBusinessList": {
+    "item1": "Support for activities of Hyogo companies and organizations",
+    "item2": "Tourism PR to increase foreign visitors to Hyogo",
+    "item3": "Promotion of exchanges with sister/friendship cities"
+  },
+  "aboutAccess": "Access",
+  "aboutAccessValue": "5 min walk from MTR 'Admiralty' Station, Exit B. 5th floor, Tower 2, Lippo Centre.",
+  "aboutAccessMap": "View on Google Maps"
+} 

@@ -1,0 +1,122 @@
+{
+  "siteTitle": "兵庫縣香港經濟交流事務所",
+  "about": "事務所概要",
+  "hyogo": "兵庫縣概要",
+  "discover": "魅力發現",
+  "links": "連結",
+  "blog": "部落格",
+  "contact": "聯絡我們",
+  "officeOverview": "事務所概要",
+  "address": "地址",
+  "contactInfo": "聯絡方式",
+  "business": "業務內容",
+  "access": "交通方式",
+  "mainAttractions": "主要景點",
+  "eventCalendar": "主要活動（1月〜12月）",
+  "more": "查看更多",
+  "noArticles": "沒有文章",
+  "latestNews": "最新消息・更新資訊",
+  "officeName": "兵庫縣香港經濟交流事務所",
+  "officeAddress": "Unit 506, 5/F, Tower 2, Lippo Centre, 89 Queensway, Admiralty, Hong Kong",
+  "officeTel": "電話：+852-2110-4570",
+  "linksTitle": "連結",
+  "languageTitle": "語言",
+  "copyright": "Copyright © Hyogo Business & Tourism Centre (HK). All Rights Reserved.",
+  "discoverDescription": "探索兵庫縣的魅力景點",
+  "contactDescription": "聯絡兵庫縣香港經濟交流事務所",
+  "featuredPlaces": {
+    "kobe": {
+      "title": "神戶",
+      "description": "美麗的港口城市，充滿異國風情"
+    },
+    "himeji": {
+      "title": "姬路城",
+      "description": "世界文化遺產，被稱為白鷺城"
+    },
+    "takeda": {
+      "title": "竹田城遺跡",
+      "description": "被稱為天空之城，可欣賞壯觀的雲海"
+    },
+    "byakugouji": {
+      "title": "白毫寺的九尺藤",
+      "description": "春天盛開的美麗紫藤花"
+    },
+    "awaji": {
+      "title": "淡路島漩渦",
+      "description": "大自然創造的壯觀漩渦"
+    },
+    "sonbun": {
+      "title": "孫文紀念館",
+      "description": "具有歷史意義的珍貴文化遺產"
+    }
+  },
+  "discoverTitle": "兵庫縣魅力發現",
+  "discoverTable": {
+    "worldHeritage": "世界遺產",
+    "worldHeritageValue": "姬路城（白鷺城）",
+    "onsen": "溫泉地",
+    "onsenValue": "有馬溫泉、城崎溫泉、湯村溫泉等",
+    "nature": "自然景觀",
+    "natureValue": "淡路島漩渦、竹田城遺跡雲海、六甲山系等",
+    "culture": "傳統文化",
+    "cultureValue": "丹波燒、播州織、灘酒釀造等",
+    "gourmet": "美食",
+    "gourmetValue": "神戶牛、明石燒、但馬牛、淡路洋蔥等",
+    "cities": "觀光城市",
+    "citiesValue": "神戶、姬路、淡路島、城崎、丹波篠山等",
+    "events": "活動",
+    "eventsValue": "神戶光之盛典、姬路城祭、淡路花博等"
+  },
+  "discoverImageAlt": "兵庫縣魅力形象圖",
+  "discoverEventsTitle": "兵庫縣主要活動（1月～12月）",
+  "discoverEvents": {
+    "jan": { "month": "1月", "title": "西宮神社『福男選拔』", "desc": "商業繁盛之神『惠比壽』的總本社。1月10日舉行『開門神事 福男選拔』，清晨6點開門後，參加者奔跑230公尺到本殿，前3名成為當年的『福男』。", "link": "西宮市政府Facebook" },
+    "feb": { "month": "2月", "title": "但馬牧場公園雪祭", "desc": "兵庫縣北部冬季積雪，可享受滑雪和單板滑雪。還有雪球投擲等兒童活動。", "link": "但馬牧場公園官網" },
+    "mar": { "month": "3月", "title": "淡路花薰之丘油菜花祭", "desc": "3月中旬至4月中旬舉辦油菜花祭，約100萬株油菜花盛開，與藍天大海形成美麗對比。", "link": "淡路花薰之丘官網" },
+    "apr": { "month": "4月", "title": "姬路城櫻花", "desc": "『日本櫻花名所100選』，姬路城周邊約有1,000株櫻花。4月上旬城堡被滿開櫻花包圍。", "link": "兵庫觀光本部" },
+    "may": { "month": "5月", "title": "白毫寺九尺藤", "desc": "丹波市白毫寺的九尺藤形成巨大的紫色帷幕，夜間有燈光秀。", "link": "兵庫觀光本部" },
+    "jun": { "month": "6月", "title": "姬路浴衣祭", "desc": "姬路城守護神『長壁神社』的例祭。有兒童浴衣遊行和時裝秀等多彩活動。", "link": "兵庫觀光本部" },
+    "jul": { "month": "7月", "title": "佐用町向日葵祭", "desc": "佐用町舉辦向日葵祭，分期盛開，總計約100萬株向日葵盛放。", "link": "神戶觀光壁紙集" },
+    "aug": { "month": "8月", "title": "Dekansho祭", "desc": "丹波篠山舉辦Dekansho祭，夏夜裡歌舞熱鬧非凡。", "link": "兵庫觀光本部" },
+    "sep": { "month": "9月", "title": "淡路島長途騎行150", "desc": "環繞淡路島的自行車活動『Awaichi』。可欣賞美景與美食。", "link": "淡路島觀光協會" },
+    "oct": { "month": "10月", "title": "灘之喧嘩祭", "desc": "姬路舉辦『灘之喧嘩祭』。神轎激烈碰撞，豪華花車遊行也是亮點。", "link": "兵庫觀光本部" },
+    "nov": { "month": "11月", "title": "神戶馬拉松", "desc": "神戶是日本最早舉辦馬拉松的地點。11月舉辦約2萬人參加的『神戶馬拉松』。", "link": "神戶馬拉松Facebook" },
+    "dec": { "month": "12月", "title": "神戶Illuminage燈光秀", "desc": "關西首屈一指的LED燈光秀『神戶Illuminage』，每年主題不同，整個公園閃耀。", "link": "兵庫觀光本部" }
+  },
+  "hyogoTitle": "兵庫縣概要",
+  "hyogoTable": {
+    "established": "設立",
+    "establishedValue": "1868年",
+    "population": "人口",
+    "populationValue": "5,354,742人（2024年3月推計）",
+    "area": "面積",
+    "areaValue": "8,400.94平方公里（2024年3月現時）",
+    "gdp": "名目GDP",
+    "gdpValue": "24兆664億日圓（2023年度）",
+    "cities": "縣內市町數",
+    "citiesValue": "29市12町",
+    "flower": "縣花",
+    "flowerValue": "野路菊",
+    "tree": "縣樹",
+    "treeValue": "樟樹",
+    "bird": "縣鳥",
+    "birdValue": "東方白鸛"
+  },
+  "hyogoMapAlt": "兵庫縣地圖",
+  "aboutTitle": "事務所概要",
+  "aboutOfficeName": "兵庫縣香港經濟交流事務所",
+  "aboutOfficeNameEn": "Hyogo Business & Tourism Centre (HK)",
+  "aboutAddress": "地址",
+  "aboutAddressValue": "Unit 506, 5/F, Tower 2, Lippo Centre, 89 Queensway, Admiralty, Hong Kong",
+  "aboutContact": "聯絡方式",
+  "aboutContactValue": "電話：+852-2110-4570\n傳真：+852-2110-4571",
+  "aboutBusiness": "業務內容",
+  "aboutBusinessList": {
+    "item1": "支援兵庫縣企業及團體活動",
+    "item2": "推廣兵庫縣觀光，吸引更多外國旅客",
+    "item3": "促進與友好城市的交流"
+  },
+  "aboutAccess": "交通方式",
+  "aboutAccessValue": "MTR金鐘（Admiralty）站B出口，步行5分鐘。Lippo Centre 2座5樓。",
+  "aboutAccessMap": "在Google地圖上查看"
+} 

@@ -14,7 +14,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
   const router = useRouter();
   const locale: Locale = (router.locale as Locale) || 'ja';
   return (
-    <IntlProvider messages={messages[locale]} locale={locale}>
+    <IntlProvider messages={messages[locale]} locale={locale} timeZone="Asia/Tokyo">
       <Component {...pageProps} />
     </IntlProvider>
   );

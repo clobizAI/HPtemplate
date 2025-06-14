@@ -5,30 +5,12 @@ import { GetStaticProps } from 'next';
 import { useTranslations } from 'next-intl';
 
 const featuredPlaces = [
-  {
-    id: 'place1',
-    image: '/images/kobe.jpg',
-  },
-  {
-    id: 'place2',
-    image: '/images/himeji.jpg',
-  },
-  {
-    id: 'place3',
-    image: '/images/takeda.jpg',
-  },
-  {
-    id: 'place4',
-    image: '/images/byakugouji.jpg',
-  },
-  {
-    id: 'place5',
-    image: '/images/awaji.jpg',
-  },
-  {
-    id: 'place6',
-    image: '/images/sonbun.jpg',
-  },
+  { id: 'place1', image: '/images/place1.jpg' },
+  { id: 'place2', image: '/images/place2.jpg' },
+  { id: 'place3', image: '/images/place3.jpg' },
+  { id: 'place4', image: '/images/place4.jpg' },
+  { id: 'place5', image: '/images/place5.jpg' },
+  { id: 'place6', image: '/images/place6.jpg' },
 ];
 
 type Blog = {

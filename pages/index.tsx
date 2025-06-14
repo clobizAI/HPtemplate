@@ -6,27 +6,27 @@ import { useTranslations } from 'next-intl';
 
 const featuredPlaces = [
   {
-    id: 'kobe',
+    id: 'place1',
     image: '/images/kobe.jpg',
   },
   {
-    id: 'himeji',
+    id: 'place2',
     image: '/images/himeji.jpg',
   },
   {
-    id: 'takeda',
+    id: 'place3',
     image: '/images/takeda.jpg',
   },
   {
-    id: 'byakugouji',
+    id: 'place4',
     image: '/images/byakugouji.jpg',
   },
   {
-    id: 'awaji',
+    id: 'place5',
     image: '/images/awaji.jpg',
   },
   {
-    id: 'sonbun',
+    id: 'place6',
     image: '/images/sonbun.jpg',
   },
 ];
@@ -52,7 +52,7 @@ export default function Home({ blogs }: Props) {
         <div className="absolute inset-0">
           <Image
             src="/images/hero.jpg"
-            alt="Hyogo Prefecture"
+            alt={t('siteTitle')}
             fill
             style={{ objectFit: 'cover' }}
             priority
@@ -75,7 +75,7 @@ export default function Home({ blogs }: Props) {
               transition={{ duration: 0.8, delay: 0.2 }}
               className="mt-6 text-xl text-gray-300"
             >
-              Hyogo Business & Tourism
+              {t('siteTitle')}
             </motion.p>
           </div>
         </div>

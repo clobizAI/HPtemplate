@@ -15,10 +15,15 @@ export default function Layout({ children }: { children: React.ReactNode }) {
   const router = useRouter();
   const t = useTranslations();
 
-  const navigation = [
+  const mainNavigation = [
+    { name: t('top1'), href: '/' },
+    { name: t('top2'), href: '/index2' },
     { name: t('about'), href: '/about' },
-    { name: t('hyogo'), href: '/hyogo' },
+    { name: t('region'), href: '/region' },
     { name: t('discover'), href: '/discover' },
+    { name: t('services'), href: '/services' },
+  ];
+  const subNavigation = [
     { name: t('links'), href: '/links' },
     { name: t('blog'), href: '/blog' },
   ];
@@ -30,21 +35,34 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           <div className="flex h-16 justify-between items-center">
             <div className="flex-shrink-0">
               <Link href="/" className="text-2xl font-bold text-primary">
-                {t('siteTitle')}
+                {t('companyName')}
               </Link>
             </div>
             
             {/* Desktop navigation */}
-            <div className="hidden md:flex md:space-x-8">
-              {navigation.map((item) => (
-                <Link
-                  key={item.name}
-                  href={item.href}
-                  className="text-gray-700 hover:text-primary px-3 py-2 text-sm font-medium"
-                >
-                  {item.name}
-                </Link>
-              ))}
+            <div className="hidden md:flex flex-col justify-center items-start md:space-y-0 md:space-x-0">
+              <div className="flex space-x-8 mb-1">
+                {mainNavigation.map((item) => (
+                  <Link
+                    key={item.name}
+                    href={item.href}
+                    className="text-gray-700 hover:text-primary px-3 py-2 text-sm font-medium"
+                  >
+                    {item.name}
+                  </Link>
+                ))}
+              </div>
+              <div className="flex space-x-6">
+                {subNavigation.map((item) => (
+                  <Link
+                    key={item.name}
+                    href={item.href}
+                    className="text-gray-500 hover:text-primary px-2 py-1 text-xs font-medium"
+                  >
+                    {item.name}
+                  </Link>
+                ))}
+              </div>
             </div>
 
             {/* Language selector */}
@@ -82,7 +100,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         {mobileMenuOpen && (
           <div className="md:hidden">
             <div className="space-y-1 px-2 pb-3 pt-2">
-              {navigation.map((item) => (
+              {[...mainNavigation, ...subNavigation].map((item) => (
                 <Link
                   key={item.name}
                   href={item.href}
@@ -128,7 +146,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             <div>
               <h3 className="text-lg font-semibold mb-4">{t('linksTitle')}</h3>
               <ul className="space-y-2">
-                {navigation.map((item) => (
+                {[...mainNavigation, ...subNavigation].map((item) => (
                   <li key={item.name}>
                     <Link href={item.href} className="text-gray-300 hover:text-white">
                       {item.name}

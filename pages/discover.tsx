@@ -12,7 +12,7 @@ export default function Discover() {
         <div className="max-w-5xl mx-auto bg-white rounded-xl shadow-lg p-8 flex flex-col md:flex-row gap-8 items-center">
           {/* 左：魅力データ */}
           <div className="flex-1 w-full">
-            <h1 className="text-3xl sm:text-4xl font-bold text-primary mb-8 border-b pb-4">{t('discoverTitle')}</h1>
+            <h1 className="text-3xl sm:text-4xl font-bold text-primary mb-8 border-b pb-4">{t('discover')}</h1>
             <table className="w-full text-left text-gray-700 border-separate border-spacing-y-2">
               <tbody>
                 <tr>
@@ -49,7 +49,7 @@ export default function Discover() {
           {/* 右：イメージ画像 */}
           <div className="flex-1 flex justify-center items-center w-full">
             <Image
-              src="/images/discover-hyogo.jpg"
+              src="/images/discover-region.jpg"
               alt={t('discoverImageAlt')}
               width={350}
               height={350}

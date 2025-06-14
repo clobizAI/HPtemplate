@@ -1,7 +1,7 @@
 {
-  "name": "hyogo-btc-website",
+  "name": "business-tourism-template",
   "version": "1.0.0",
-  "description": "Hyogo Business & Tourism Centre (HK) Website",
+  "description": "Business & Tourism Centre Website Template",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,7 +10,7 @@
   "dependencies": {
     "@heroicons/react": "^2.1.1",
     "autoprefixer": "^10.4.17",
-    "framer-motion": "^11.0.3",
+    "framer-motion": "^11.18.2",
     "next": "^14.1.0",
     "next-intl": "^3.7.0",
     "postcss": "^8.4.35",

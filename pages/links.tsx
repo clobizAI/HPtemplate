@@ -2,11 +2,6 @@ import Layout from '../components/Layout';
 import { GlobeAltIcon, BuildingOffice2Icon, LinkIcon } from '@heroicons/react/24/outline';
 
 const links = [
-  { name: '兵庫県庁', url: 'https://web.pref.hyogo.lg.jp/', icon: <BuildingOffice2Icon className="h-6 w-6 text-primary" /> },
-  { name: '兵庫県国際交流協会（HIA）', url: 'https://www.hyogo-ip.or.jp/', icon: <GlobeAltIcon className="h-6 w-6 text-primary" /> },
-  { name: 'ひょうご海外ビジネスセンター', url: 'https://www.hyogo-kaigai.jp/', icon: <LinkIcon className="h-6 w-6 text-primary" /> },
-  { name: 'ひょうご・神戸投資サポートセンター', url: 'https://www.hyogo-investment.jp/', icon: <LinkIcon className="h-6 w-6 text-primary" /> },
-  { name: '兵庫県公式観光サイト「HYOGO！ナビ」', url: 'https://www.hyogo-tourism.jp/', icon: <GlobeAltIcon className="h-6 w-6 text-primary" /> },
   { name: '在香港日本総領事館', url: 'https://www.hk.emb-japan.go.jp/itprtop_ja/index.html', icon: <BuildingOffice2Icon className="h-6 w-6 text-primary" /> },
   { name: 'JETRO（日本貿易振興機構）香港', url: 'https://www.jetro.go.jp/world/asia/hk/', icon: <GlobeAltIcon className="h-6 w-6 text-primary" /> },
   { name: 'JNTO（日本政府観光局）香港', url: 'https://www.japan.travel/hk/ja/', icon: <GlobeAltIcon className="h-6 w-6 text-primary" /> },
